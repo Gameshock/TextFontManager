@@ -23,4 +23,3 @@ public class TextFontManagerEditor : Editor
         }
     }
 }
-// Compare this snippet from Assets/Scripts/Managers/InventryManager.cs:
